@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "updatedAt": "2026-11-19",
  "items": [
   {
@@ -147,10 +147,10 @@
   },
   {
    "id": "ali14",
-   "title": "天然干柑橘片（橙子·柠檬·西柚）",
-   "price": 12.07,
-   "imageUrl": "https://ae-pic-a1.aliexpress-media.com/kf/Se8406df1839a493ba43dee93603daa33d.jpg_220x220q75.jpg_.avif",
-   "url": "https://s.click.aliexpress.com/e/_c42rWqbf",
+   "title": "奥利奥夹心饼干 3包",
+   "price": 28.0,
+   "imageUrl": "https://ae-pic-a1.aliexpress-media.com/kf/Sbd7dd96997554f478fd1078ead801cf81.jpg_220x220q75.jpg_.avif",
+   "url": "https://s.click.aliexpress.com/e/_c4NDBAxX",
    "source": "aliexpress",
    "category": "食品",
    "active": true,
